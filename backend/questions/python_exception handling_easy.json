@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "What is exception handling in Python?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "except",
+      "finally",
+      "raise"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "Why is exception handling important?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "except",
+      "finally",
+      "raise"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "Explain try block.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "except",
+      "finally",
+      "raise"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "Explain except block.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "except",
+      "finally",
+      "raise"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "What is finally block?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "except",
+      "finally",
+      "raise"
+    ]
+  }
+]

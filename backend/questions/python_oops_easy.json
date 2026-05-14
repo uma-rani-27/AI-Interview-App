@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is a class in Python?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is an object in Python?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "Explain inheritance.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is polymorphism?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is encapsulation?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  }
+]

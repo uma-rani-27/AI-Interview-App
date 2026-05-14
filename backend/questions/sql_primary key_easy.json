@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "easy",
+    "question": "What is a primary key?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "primary key",
+      "unique key",
+      "null",
+      "constraints",
+      "database"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "easy",
+    "question": "Why is primary key important?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "primary key",
+      "unique key",
+      "null",
+      "constraints",
+      "database"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "easy",
+    "question": "Can a table have multiple primary keys?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "primary key",
+      "unique key",
+      "null",
+      "constraints",
+      "database"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "easy",
+    "question": "Difference between primary key and unique key.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "primary key",
+      "unique key",
+      "null",
+      "constraints",
+      "database"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "easy",
+    "question": "Can primary key contain NULL values?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "primary key",
+      "unique key",
+      "null",
+      "constraints",
+      "database"
+    ]
+  }
+]

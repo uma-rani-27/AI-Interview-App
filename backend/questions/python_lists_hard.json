@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "hard",
+    "question": "Explain advanced list comprehension.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "memory allocation",
+      "dynamic resizing",
+      "optimization",
+      "arrays",
+      "performance"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "hard",
+    "question": "How do lists work internally in Python?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "memory allocation",
+      "dynamic resizing",
+      "optimization",
+      "arrays",
+      "performance"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "hard",
+    "question": "Explain memory allocation in lists.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "memory allocation",
+      "dynamic resizing",
+      "optimization",
+      "arrays",
+      "performance"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "hard",
+    "question": "Difference between arrays and lists.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "memory allocation",
+      "dynamic resizing",
+      "optimization",
+      "arrays",
+      "performance"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "hard",
+    "question": "How do you optimize list operations?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "memory allocation",
+      "dynamic resizing",
+      "optimization",
+      "arrays",
+      "performance"
+    ]
+  }
+]

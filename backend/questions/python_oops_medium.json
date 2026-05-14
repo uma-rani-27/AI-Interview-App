@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "Explain inheritance with example.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "How does polymorphism improve flexibility?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "Explain abstraction with real-time example.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "What is encapsulation and why is it important?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "Difference between method overloading and overriding.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "easy",
+    "question": "What is a function in Python?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "functions",
+      "parameters",
+      "arguments",
+      "return",
+      "lambda"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "easy",
+    "question": "Why are functions used?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "functions",
+      "parameters",
+      "arguments",
+      "return",
+      "lambda"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "easy",
+    "question": "What is a parameter?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "functions",
+      "parameters",
+      "arguments",
+      "return",
+      "lambda"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "easy",
+    "question": "What is an argument?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "functions",
+      "parameters",
+      "arguments",
+      "return",
+      "lambda"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "easy",
+    "question": "Explain return statement.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "functions",
+      "parameters",
+      "arguments",
+      "return",
+      "lambda"
+    ]
+  }
+]

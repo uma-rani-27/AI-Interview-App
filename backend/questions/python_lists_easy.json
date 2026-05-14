@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "easy",
+    "question": "What is a list in Python?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list",
+      "append",
+      "insert",
+      "remove",
+      "pop"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "easy",
+    "question": "How do you create a list?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list",
+      "append",
+      "insert",
+      "remove",
+      "pop"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "easy",
+    "question": "Explain append() method.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list",
+      "append",
+      "insert",
+      "remove",
+      "pop"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "easy",
+    "question": "Explain insert() method.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list",
+      "append",
+      "insert",
+      "remove",
+      "pop"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "easy",
+    "question": "Difference between remove() and pop().",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list",
+      "append",
+      "insert",
+      "remove",
+      "pop"
+    ]
+  }
+]

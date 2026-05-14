@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "hard",
+    "question": "Explain advanced recursion in Python.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "closures",
+      "higher order",
+      "generators",
+      "memory",
+      "advanced functions"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "hard",
+    "question": "How do higher-order functions work internally?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "closures",
+      "higher order",
+      "generators",
+      "memory",
+      "advanced functions"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "hard",
+    "question": "Explain closures in Python.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "closures",
+      "higher order",
+      "generators",
+      "memory",
+      "advanced functions"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "hard",
+    "question": "Difference between generators and normal functions.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "closures",
+      "higher order",
+      "generators",
+      "memory",
+      "advanced functions"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "hard",
+    "question": "How does memory management work in functions?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "closures",
+      "higher order",
+      "generators",
+      "memory",
+      "advanced functions"
+    ]
+  }
+]

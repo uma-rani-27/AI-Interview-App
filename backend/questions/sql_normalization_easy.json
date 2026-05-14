@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "easy",
+    "question": "What is normalization?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "normalization",
+      "1NF",
+      "2NF",
+      "3NF",
+      "redundancy"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "easy",
+    "question": "Why is normalization important?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "normalization",
+      "1NF",
+      "2NF",
+      "3NF",
+      "redundancy"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "easy",
+    "question": "Explain 1NF.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "normalization",
+      "1NF",
+      "2NF",
+      "3NF",
+      "redundancy"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "easy",
+    "question": "Explain 2NF.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "normalization",
+      "1NF",
+      "2NF",
+      "3NF",
+      "redundancy"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "easy",
+    "question": "Explain 3NF.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "normalization",
+      "1NF",
+      "2NF",
+      "3NF",
+      "redundancy"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "medium",
+    "question": "Difference between Runnable and Thread class.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runnable",
+      "synchronization",
+      "deadlock",
+      "communication",
+      "scheduling"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "medium",
+    "question": "Explain thread synchronization.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runnable",
+      "synchronization",
+      "deadlock",
+      "communication",
+      "scheduling"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "medium",
+    "question": "What is deadlock?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runnable",
+      "synchronization",
+      "deadlock",
+      "communication",
+      "scheduling"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "medium",
+    "question": "Explain inter-thread communication.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runnable",
+      "synchronization",
+      "deadlock",
+      "communication",
+      "scheduling"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "medium",
+    "question": "What is thread scheduling?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runnable",
+      "synchronization",
+      "deadlock",
+      "communication",
+      "scheduling"
+    ]
+  }
+]

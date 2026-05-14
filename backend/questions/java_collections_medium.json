@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "medium",
+    "question": "Difference between ArrayList and LinkedList.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "arraylist",
+      "linkedlist",
+      "hashmap",
+      "iterator",
+      "treeset"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "medium",
+    "question": "How does HashMap work?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "arraylist",
+      "linkedlist",
+      "hashmap",
+      "iterator",
+      "treeset"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "medium",
+    "question": "Explain Iterator in Java.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "arraylist",
+      "linkedlist",
+      "hashmap",
+      "iterator",
+      "treeset"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "medium",
+    "question": "Difference between Set and Map.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "arraylist",
+      "linkedlist",
+      "hashmap",
+      "iterator",
+      "treeset"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "medium",
+    "question": "Explain TreeSet.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "arraylist",
+      "linkedlist",
+      "hashmap",
+      "iterator",
+      "treeset"
+    ]
+  }
+]

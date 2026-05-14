@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "Explain custom exceptions.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exceptions",
+      "nested try",
+      "multiple except",
+      "finally",
+      "propagation"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "How do nested try blocks work?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exceptions",
+      "nested try",
+      "multiple except",
+      "finally",
+      "propagation"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "Explain multiple except blocks.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exceptions",
+      "nested try",
+      "multiple except",
+      "finally",
+      "propagation"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "How does finally block improve reliability?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exceptions",
+      "nested try",
+      "multiple except",
+      "finally",
+      "propagation"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "Explain exception propagation.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exceptions",
+      "nested try",
+      "multiple except",
+      "finally",
+      "propagation"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "easy",
+    "question": "What is SQL query?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "select",
+      "where",
+      "group by",
+      "order by",
+      "query"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "easy",
+    "question": "Explain SELECT statement.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "select",
+      "where",
+      "group by",
+      "order by",
+      "query"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "easy",
+    "question": "What is WHERE clause?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "select",
+      "where",
+      "group by",
+      "order by",
+      "query"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "easy",
+    "question": "Explain ORDER BY.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "select",
+      "where",
+      "group by",
+      "order by",
+      "query"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "easy",
+    "question": "What is GROUP BY?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "select",
+      "where",
+      "group by",
+      "order by",
+      "query"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "medium",
+    "question": "Explain recursion with example.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "recursion",
+      "lambda",
+      "scope",
+      "anonymous",
+      "modularity"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "medium",
+    "question": "Difference between lambda and normal functions.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "recursion",
+      "lambda",
+      "scope",
+      "anonymous",
+      "modularity"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "medium",
+    "question": "How do default arguments work?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "recursion",
+      "lambda",
+      "scope",
+      "anonymous",
+      "modularity"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "medium",
+    "question": "Explain variable scope in Python.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "recursion",
+      "lambda",
+      "scope",
+      "anonymous",
+      "modularity"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "functions",
+    "difficulty": "medium",
+    "question": "What are anonymous functions?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "recursion",
+      "lambda",
+      "scope",
+      "anonymous",
+      "modularity"
+    ]
+  }
+]

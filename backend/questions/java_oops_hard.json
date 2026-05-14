@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "Explain runtime polymorphism internally.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runtime polymorphism",
+      "jvm",
+      "interface",
+      "abstract class",
+      "security"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "How does JVM manage objects?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runtime polymorphism",
+      "jvm",
+      "interface",
+      "abstract class",
+      "security"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "Difference between abstract class and interface.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runtime polymorphism",
+      "jvm",
+      "interface",
+      "abstract class",
+      "security"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "Explain multiple inheritance using interfaces.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runtime polymorphism",
+      "jvm",
+      "interface",
+      "abstract class",
+      "security"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "How does encapsulation improve security?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "runtime polymorphism",
+      "jvm",
+      "interface",
+      "abstract class",
+      "security"
+    ]
+  }
+]

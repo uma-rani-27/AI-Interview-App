@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "What is exception handling in Java?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "catch",
+      "finally",
+      "throw"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "Explain try and catch blocks.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "catch",
+      "finally",
+      "throw"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "What is finally block?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "catch",
+      "finally",
+      "throw"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "Difference between checked and unchecked exceptions.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "catch",
+      "finally",
+      "throw"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "easy",
+    "question": "What is throw keyword?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "exception",
+      "try",
+      "catch",
+      "finally",
+      "throw"
+    ]
+  }
+]

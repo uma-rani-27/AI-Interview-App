@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "Explain polymorphism in Python.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "What is abstraction in Python OOPS?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "Explain inheritance with real-time example.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "What is encapsulation in Python?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "Differentiate method overloading and overriding.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inheritance",
+      "polymorphism",
+      "encapsulation",
+      "abstraction",
+      "constructor"
+    ]
+  }
+]

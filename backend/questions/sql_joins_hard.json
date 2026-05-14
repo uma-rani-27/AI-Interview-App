@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "hard",
+    "question": "Explain join optimization techniques.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "optimization",
+      "hash join",
+      "nested loop join",
+      "execution",
+      "performance"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "hard",
+    "question": "How do SQL engines process joins internally?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "optimization",
+      "hash join",
+      "nested loop join",
+      "execution",
+      "performance"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "hard",
+    "question": "Difference between hash join and nested loop join.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "optimization",
+      "hash join",
+      "nested loop join",
+      "execution",
+      "performance"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "hard",
+    "question": "Explain join execution plans.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "optimization",
+      "hash join",
+      "nested loop join",
+      "execution",
+      "performance"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "hard",
+    "question": "How do joins affect database performance?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "optimization",
+      "hash join",
+      "nested loop join",
+      "execution",
+      "performance"
+    ]
+  }
+]

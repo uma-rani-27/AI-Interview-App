@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "hard",
+    "question": "Explain advanced key management in databases.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "uuid",
+      "auto increment",
+      "indexing",
+      "distributed systems",
+      "clustered indexing"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "hard",
+    "question": "Difference between UUID and AUTO_INCREMENT keys.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "uuid",
+      "auto increment",
+      "indexing",
+      "distributed systems",
+      "clustered indexing"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "hard",
+    "question": "Explain indexing strategies for primary keys.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "uuid",
+      "auto increment",
+      "indexing",
+      "distributed systems",
+      "clustered indexing"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "hard",
+    "question": "How do distributed systems maintain key integrity?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "uuid",
+      "auto increment",
+      "indexing",
+      "distributed systems",
+      "clustered indexing"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "hard",
+    "question": "Explain clustered indexing with primary keys.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "uuid",
+      "auto increment",
+      "indexing",
+      "distributed systems",
+      "clustered indexing"
+    ]
+  }
+]

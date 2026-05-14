@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "Explain JVM exception handling internally.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "exception chaining",
+      "enterprise",
+      "performance",
+      "best practices"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "How do enterprise applications manage exceptions?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "exception chaining",
+      "enterprise",
+      "performance",
+      "best practices"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "Explain exception chaining.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "exception chaining",
+      "enterprise",
+      "performance",
+      "best practices"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "How does exception handling affect performance?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "exception chaining",
+      "enterprise",
+      "performance",
+      "best practices"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "Explain best practices for exception handling.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "exception chaining",
+      "enterprise",
+      "performance",
+      "best practices"
+    ]
+  }
+]

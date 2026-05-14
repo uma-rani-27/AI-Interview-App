@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "medium",
+    "question": "Explain different types of joins with examples.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inner join",
+      "outer join",
+      "self join",
+      "cross join",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "medium",
+    "question": "How does INNER JOIN work internally?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inner join",
+      "outer join",
+      "self join",
+      "cross join",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "medium",
+    "question": "Difference between LEFT JOIN and RIGHT JOIN.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inner join",
+      "outer join",
+      "self join",
+      "cross join",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "medium",
+    "question": "Explain SELF JOIN with real-time example.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inner join",
+      "outer join",
+      "self join",
+      "cross join",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "medium",
+    "question": "How does FULL OUTER JOIN work?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "inner join",
+      "outer join",
+      "self join",
+      "cross join",
+      "optimization"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "hard",
+    "question": "Explain your project in detail technically.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "scalability",
+      "optimization",
+      "performance",
+      "real time",
+      "technical architecture"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "hard",
+    "question": "How can your project be improved further?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "scalability",
+      "optimization",
+      "performance",
+      "real time",
+      "technical architecture"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "hard",
+    "question": "What are the scalability challenges in your project?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "scalability",
+      "optimization",
+      "performance",
+      "real time",
+      "technical architecture"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "hard",
+    "question": "How does your project handle performance optimization?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "scalability",
+      "optimization",
+      "performance",
+      "real time",
+      "technical architecture"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "hard",
+    "question": "Explain the real-time impact of your project.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "scalability",
+      "optimization",
+      "performance",
+      "real time",
+      "technical architecture"
+    ]
+  }
+]

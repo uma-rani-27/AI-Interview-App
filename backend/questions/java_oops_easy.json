@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is OOPS in Java?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is a class in Java?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is an object in Java?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "Explain inheritance in Java.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is polymorphism?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "class",
+      "object",
+      "inheritance",
+      "polymorphism",
+      "encapsulation"
+    ]
+  }
+]

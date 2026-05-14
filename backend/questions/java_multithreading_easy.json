@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "easy",
+    "question": "What is multithreading in Java?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "multithreading",
+      "thread",
+      "process",
+      "lifecycle",
+      "java"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "easy",
+    "question": "What is a thread?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "multithreading",
+      "thread",
+      "process",
+      "lifecycle",
+      "java"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "easy",
+    "question": "How do you create a thread in Java?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "multithreading",
+      "thread",
+      "process",
+      "lifecycle",
+      "java"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "easy",
+    "question": "Difference between process and thread.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "multithreading",
+      "thread",
+      "process",
+      "lifecycle",
+      "java"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "easy",
+    "question": "What is thread lifecycle?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "multithreading",
+      "thread",
+      "process",
+      "lifecycle",
+      "java"
+    ]
+  }
+]

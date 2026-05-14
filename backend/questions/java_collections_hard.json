@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "hard",
+    "question": "Explain internal working of HashMap.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashmap",
+      "hashing",
+      "fail fast",
+      "synchronization",
+      "concurrenthashmap"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "hard",
+    "question": "How does hashing improve performance?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashmap",
+      "hashing",
+      "fail fast",
+      "synchronization",
+      "concurrenthashmap"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "hard",
+    "question": "Difference between fail-fast and fail-safe iterators.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashmap",
+      "hashing",
+      "fail fast",
+      "synchronization",
+      "concurrenthashmap"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "hard",
+    "question": "How are collections synchronized?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashmap",
+      "hashing",
+      "fail fast",
+      "synchronization",
+      "concurrenthashmap"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "hard",
+    "question": "Explain ConcurrentHashMap.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashmap",
+      "hashing",
+      "fail fast",
+      "synchronization",
+      "concurrenthashmap"
+    ]
+  }
+]

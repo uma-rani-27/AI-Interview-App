@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "hr",
+    "subtopic": "strengths",
+    "difficulty": "easy",
+    "question": "What are your strengths?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "communication",
+      "teamwork",
+      "confidence",
+      "motivation",
+      "problem solving"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "strengths",
+    "difficulty": "easy",
+    "question": "Describe your main strengths.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "communication",
+      "teamwork",
+      "confidence",
+      "motivation",
+      "problem solving"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "strengths",
+    "difficulty": "easy",
+    "question": "How do your strengths help you?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "communication",
+      "teamwork",
+      "confidence",
+      "motivation",
+      "problem solving"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "strengths",
+    "difficulty": "easy",
+    "question": "What strength are you most confident about?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "communication",
+      "teamwork",
+      "confidence",
+      "motivation",
+      "problem solving"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "strengths",
+    "difficulty": "easy",
+    "question": "How does teamwork help you succeed?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "communication",
+      "teamwork",
+      "confidence",
+      "motivation",
+      "problem solving"
+    ]
+  }
+]

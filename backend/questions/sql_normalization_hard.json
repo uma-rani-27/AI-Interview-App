@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "hard",
+    "question": "Explain advanced normalization techniques.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced normalization",
+      "BCNF",
+      "4NF",
+      "performance",
+      "dependency"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "hard",
+    "question": "Difference between BCNF and 4NF.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced normalization",
+      "BCNF",
+      "4NF",
+      "performance",
+      "dependency"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "hard",
+    "question": "Explain multivalued dependency.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced normalization",
+      "BCNF",
+      "4NF",
+      "performance",
+      "dependency"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "hard",
+    "question": "How does normalization impact performance?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced normalization",
+      "BCNF",
+      "4NF",
+      "performance",
+      "dependency"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "hard",
+    "question": "Explain normalization trade-offs.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced normalization",
+      "BCNF",
+      "4NF",
+      "performance",
+      "dependency"
+    ]
+  }
+]

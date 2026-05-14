@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "medium",
+    "question": "Explain your project architecture.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "architecture",
+      "workflow",
+      "technical",
+      "challenges",
+      "implementation"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "medium",
+    "question": "What challenges did you face in the project?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "architecture",
+      "workflow",
+      "technical",
+      "challenges",
+      "implementation"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "medium",
+    "question": "How did you overcome project difficulties?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "architecture",
+      "workflow",
+      "technical",
+      "challenges",
+      "implementation"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "medium",
+    "question": "Explain the workflow of your project.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "architecture",
+      "workflow",
+      "technical",
+      "challenges",
+      "implementation"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "medium",
+    "question": "How does your project work technically?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "architecture",
+      "workflow",
+      "technical",
+      "challenges",
+      "implementation"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "hard",
+    "question": "Explain SQL query optimization techniques.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "query optimization",
+      "indexing",
+      "execution plan",
+      "partitioning",
+      "performance"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "hard",
+    "question": "How does indexing improve query performance?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "query optimization",
+      "indexing",
+      "execution plan",
+      "partitioning",
+      "performance"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "hard",
+    "question": "Explain query execution plans.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "query optimization",
+      "indexing",
+      "execution plan",
+      "partitioning",
+      "performance"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "hard",
+    "question": "Difference between clustered and non-clustered indexes.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "query optimization",
+      "indexing",
+      "execution plan",
+      "partitioning",
+      "performance"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "hard",
+    "question": "Explain partitioning in databases.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "query optimization",
+      "indexing",
+      "execution plan",
+      "partitioning",
+      "performance"
+    ]
+  }
+]

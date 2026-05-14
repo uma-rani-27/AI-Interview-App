@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "easy",
+    "question": "Explain your project briefly.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "project",
+      "role",
+      "technology",
+      "problem solving",
+      "implementation"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "easy",
+    "question": "What was your role in the project?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "project",
+      "role",
+      "technology",
+      "problem solving",
+      "implementation"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "easy",
+    "question": "What technologies were used in your project?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "project",
+      "role",
+      "technology",
+      "problem solving",
+      "implementation"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "easy",
+    "question": "What problem does your project solve?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "project",
+      "role",
+      "technology",
+      "problem solving",
+      "implementation"
+    ]
+  },
+  {
+    "domain": "projects",
+    "subtopic": "",
+    "difficulty": "easy",
+    "question": "Why did you choose this project?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "project",
+      "role",
+      "technology",
+      "problem solving",
+      "implementation"
+    ]
+  }
+]

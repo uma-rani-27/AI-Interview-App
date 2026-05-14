@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "easy",
+    "question": "What is JOIN in SQL?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "join",
+      "inner join",
+      "left join",
+      "right join",
+      "database"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "easy",
+    "question": "Why are joins used?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "join",
+      "inner join",
+      "left join",
+      "right join",
+      "database"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "easy",
+    "question": "Explain INNER JOIN.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "join",
+      "inner join",
+      "left join",
+      "right join",
+      "database"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "easy",
+    "question": "Explain LEFT JOIN.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "join",
+      "inner join",
+      "left join",
+      "right join",
+      "database"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "joins",
+    "difficulty": "easy",
+    "question": "Explain RIGHT JOIN.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "join",
+      "inner join",
+      "left join",
+      "right join",
+      "database"
+    ]
+  }
+]

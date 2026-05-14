@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "Explain advanced exception handling in Python.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced exception handling",
+      "propagation",
+      "custom exceptions",
+      "logging",
+      "debugging"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "How does exception propagation work internally?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced exception handling",
+      "propagation",
+      "custom exceptions",
+      "logging",
+      "debugging"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "Explain custom exception classes.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced exception handling",
+      "propagation",
+      "custom exceptions",
+      "logging",
+      "debugging"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "How do large systems manage exceptions?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced exception handling",
+      "propagation",
+      "custom exceptions",
+      "logging",
+      "debugging"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "exception handling",
+    "difficulty": "hard",
+    "question": "Explain exception chaining professionally.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "advanced exception handling",
+      "propagation",
+      "custom exceptions",
+      "logging",
+      "debugging"
+    ]
+  }
+]

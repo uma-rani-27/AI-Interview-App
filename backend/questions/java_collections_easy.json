@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "easy",
+    "question": "What is Collection Framework in Java?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "collection",
+      "arraylist",
+      "hashset",
+      "hashmap",
+      "list"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "easy",
+    "question": "Difference between List and Set.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "collection",
+      "arraylist",
+      "hashset",
+      "hashmap",
+      "list"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "easy",
+    "question": "What is ArrayList?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "collection",
+      "arraylist",
+      "hashset",
+      "hashmap",
+      "list"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "easy",
+    "question": "What is HashSet?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "collection",
+      "arraylist",
+      "hashset",
+      "hashmap",
+      "list"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "collections",
+    "difficulty": "easy",
+    "question": "What is HashMap?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "collection",
+      "arraylist",
+      "hashset",
+      "hashmap",
+      "list"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "easy",
+    "question": "What is a dictionary in Python?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary",
+      "keys",
+      "values",
+      "get",
+      "nested dictionary"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "easy",
+    "question": "How do you create a dictionary?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary",
+      "keys",
+      "values",
+      "get",
+      "nested dictionary"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "easy",
+    "question": "What are keys and values?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary",
+      "keys",
+      "values",
+      "get",
+      "nested dictionary"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "easy",
+    "question": "Explain get() method.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary",
+      "keys",
+      "values",
+      "get",
+      "nested dictionary"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "easy",
+    "question": "What is nested dictionary?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary",
+      "keys",
+      "values",
+      "get",
+      "nested dictionary"
+    ]
+  }
+]

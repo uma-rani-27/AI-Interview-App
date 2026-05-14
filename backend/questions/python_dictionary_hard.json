@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "hard",
+    "question": "Explain internal working of dictionaries.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashing",
+      "collision",
+      "memory",
+      "optimization",
+      "internal working"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "hard",
+    "question": "How does hashing optimize dictionaries?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashing",
+      "collision",
+      "memory",
+      "optimization",
+      "internal working"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "hard",
+    "question": "Explain collision handling in dictionaries.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashing",
+      "collision",
+      "memory",
+      "optimization",
+      "internal working"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "hard",
+    "question": "How do dictionaries manage memory?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashing",
+      "collision",
+      "memory",
+      "optimization",
+      "internal working"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "hard",
+    "question": "Explain advanced dictionary comprehension.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "hashing",
+      "collision",
+      "memory",
+      "optimization",
+      "internal working"
+    ]
+  }
+]

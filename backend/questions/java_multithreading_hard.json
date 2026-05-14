@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "hard",
+    "question": "How does JVM manage threads internally?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "thread pool",
+      "synchronized",
+      "concurrency",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "hard",
+    "question": "Explain thread pool architecture.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "thread pool",
+      "synchronized",
+      "concurrency",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "hard",
+    "question": "Difference between synchronized block and synchronized method.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "thread pool",
+      "synchronized",
+      "concurrency",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "hard",
+    "question": "Explain concurrency in Java.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "thread pool",
+      "synchronized",
+      "concurrency",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "multithreading",
+    "difficulty": "hard",
+    "question": "How do enterprise systems optimize multithreading?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "jvm",
+      "thread pool",
+      "synchronized",
+      "concurrency",
+      "optimization"
+    ]
+  }
+]

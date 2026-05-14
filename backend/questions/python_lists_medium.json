@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "medium",
+    "question": "Explain list comprehension.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list comprehension",
+      "copy",
+      "deep copy",
+      "nested list",
+      "iteration"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "medium",
+    "question": "How do you copy a list?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list comprehension",
+      "copy",
+      "deep copy",
+      "nested list",
+      "iteration"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "medium",
+    "question": "Difference between shallow copy and deep copy.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list comprehension",
+      "copy",
+      "deep copy",
+      "nested list",
+      "iteration"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "medium",
+    "question": "Explain nested lists with examples.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list comprehension",
+      "copy",
+      "deep copy",
+      "nested list",
+      "iteration"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "lists",
+    "difficulty": "medium",
+    "question": "How do you iterate through lists?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "list comprehension",
+      "copy",
+      "deep copy",
+      "nested list",
+      "iteration"
+    ]
+  }
+]

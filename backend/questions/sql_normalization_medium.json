@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "medium",
+    "question": "Explain normalization with examples.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "BCNF",
+      "dependency",
+      "anomalies",
+      "database design",
+      "normalization"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "medium",
+    "question": "Difference between 2NF and 3NF.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "BCNF",
+      "dependency",
+      "anomalies",
+      "database design",
+      "normalization"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "medium",
+    "question": "Explain Boyce-Codd Normal Form.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "BCNF",
+      "dependency",
+      "anomalies",
+      "database design",
+      "normalization"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "medium",
+    "question": "How does normalization remove anomalies?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "BCNF",
+      "dependency",
+      "anomalies",
+      "database design",
+      "normalization"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "normalization",
+    "difficulty": "medium",
+    "question": "Explain transitive dependency.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "BCNF",
+      "dependency",
+      "anomalies",
+      "database design",
+      "normalization"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "medium",
+    "question": "Explain composite primary keys with examples.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "foreign key",
+      "referential integrity",
+      "normalization",
+      "indexing",
+      "relationships"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "medium",
+    "question": "How do foreign keys maintain relationships?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "foreign key",
+      "referential integrity",
+      "normalization",
+      "indexing",
+      "relationships"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "medium",
+    "question": "Difference between primary key and indexing.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "foreign key",
+      "referential integrity",
+      "normalization",
+      "indexing",
+      "relationships"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "medium",
+    "question": "Explain referential integrity.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "foreign key",
+      "referential integrity",
+      "normalization",
+      "indexing",
+      "relationships"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "primary key",
+    "difficulty": "medium",
+    "question": "How are keys used in normalization?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "foreign key",
+      "referential integrity",
+      "normalization",
+      "indexing",
+      "relationships"
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "medium",
+    "question": "Explain subqueries in SQL.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "subquery",
+      "aggregate",
+      "optimization",
+      "nested queries",
+      "sql"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "medium",
+    "question": "Difference between correlated and non-correlated subqueries.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "subquery",
+      "aggregate",
+      "optimization",
+      "nested queries",
+      "sql"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "medium",
+    "question": "How do aggregate functions work?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "subquery",
+      "aggregate",
+      "optimization",
+      "nested queries",
+      "sql"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "medium",
+    "question": "Explain nested queries.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "subquery",
+      "aggregate",
+      "optimization",
+      "nested queries",
+      "sql"
+    ]
+  },
+  {
+    "domain": "sql",
+    "subtopic": "queries",
+    "difficulty": "medium",
+    "question": "What is query optimization?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "subquery",
+      "aggregate",
+      "optimization",
+      "nested queries",
+      "sql"
+    ]
+  }
+]

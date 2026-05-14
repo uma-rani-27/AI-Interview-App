@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "Explain custom exceptions in Java.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exception",
+      "throw",
+      "throws",
+      "propagation",
+      "nested try"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "Difference between throw and throws.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exception",
+      "throw",
+      "throws",
+      "propagation",
+      "nested try"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "How does exception propagation work?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exception",
+      "throw",
+      "throws",
+      "propagation",
+      "nested try"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "Explain nested try blocks.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exception",
+      "throw",
+      "throws",
+      "propagation",
+      "nested try"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "exception handling",
+    "difficulty": "medium",
+    "question": "How does finally improve reliability?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "custom exception",
+      "throw",
+      "throws",
+      "propagation",
+      "nested try"
+    ]
+  }
+]

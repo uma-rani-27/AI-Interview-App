@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "hr",
+    "subtopic": "self introduction",
+    "difficulty": "easy",
+    "question": "Tell me about yourself.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "education",
+      "skills",
+      "career goals",
+      "strengths",
+      "background"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "self introduction",
+    "difficulty": "easy",
+    "question": "Introduce yourself briefly.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "education",
+      "skills",
+      "career goals",
+      "strengths",
+      "background"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "self introduction",
+    "difficulty": "easy",
+    "question": "Can you give a short self introduction?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "education",
+      "skills",
+      "career goals",
+      "strengths",
+      "background"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "self introduction",
+    "difficulty": "easy",
+    "question": "Describe your educational background.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "education",
+      "skills",
+      "career goals",
+      "strengths",
+      "background"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "self introduction",
+    "difficulty": "easy",
+    "question": "Tell me about your strengths and interests.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "education",
+      "skills",
+      "career goals",
+      "strengths",
+      "background"
+    ]
+  }
+]

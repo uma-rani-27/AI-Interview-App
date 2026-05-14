@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "hr",
+    "subtopic": "weakness",
+    "difficulty": "easy",
+    "question": "What is your weakness?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "improvement",
+      "learning",
+      "adaptability",
+      "communication",
+      "confidence"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "weakness",
+    "difficulty": "easy",
+    "question": "Describe one weakness you are improving.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "improvement",
+      "learning",
+      "adaptability",
+      "communication",
+      "confidence"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "weakness",
+    "difficulty": "easy",
+    "question": "How do you handle your weaknesses?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "improvement",
+      "learning",
+      "adaptability",
+      "communication",
+      "confidence"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "weakness",
+    "difficulty": "easy",
+    "question": "What personal weakness do you want to overcome?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "improvement",
+      "learning",
+      "adaptability",
+      "communication",
+      "confidence"
+    ]
+  },
+  {
+    "domain": "hr",
+    "subtopic": "weakness",
+    "difficulty": "easy",
+    "question": "How are you improving your weak areas?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "improvement",
+      "learning",
+      "adaptability",
+      "communication",
+      "confidence"
+    ]
+  }
+]

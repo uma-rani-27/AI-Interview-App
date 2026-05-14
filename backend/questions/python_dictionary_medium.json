@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "medium",
+    "question": "Explain dictionary comprehension.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary comprehension",
+      "hashing",
+      "nested dictionary",
+      "merge",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "medium",
+    "question": "How does hashing work in dictionaries?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary comprehension",
+      "hashing",
+      "nested dictionary",
+      "merge",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "medium",
+    "question": "Difference between dictionary and set.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary comprehension",
+      "hashing",
+      "nested dictionary",
+      "merge",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "medium",
+    "question": "Explain nested dictionaries.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary comprehension",
+      "hashing",
+      "nested dictionary",
+      "merge",
+      "optimization"
+    ]
+  },
+  {
+    "domain": "python",
+    "subtopic": "dictionary",
+    "difficulty": "medium",
+    "question": "How do you merge dictionaries?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "dictionary comprehension",
+      "hashing",
+      "nested dictionary",
+      "merge",
+      "optimization"
+    ]
+  }
+]

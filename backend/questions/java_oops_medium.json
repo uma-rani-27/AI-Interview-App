@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "Explain abstraction with example.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "abstraction",
+      "overloading",
+      "overriding",
+      "constructors",
+      "dynamic polymorphism"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "Difference between method overloading and overriding.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "abstraction",
+      "overloading",
+      "overriding",
+      "constructors",
+      "dynamic polymorphism"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "How does inheritance improve reusability?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "abstraction",
+      "overloading",
+      "overriding",
+      "constructors",
+      "dynamic polymorphism"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "Explain constructor types in Java.",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "abstraction",
+      "overloading",
+      "overriding",
+      "constructors",
+      "dynamic polymorphism"
+    ]
+  },
+  {
+    "domain": "java",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "What is dynamic polymorphism?",
+    "ideal_answer": "Provide professional detailed explanation.",
+    "keywords": [
+      "abstraction",
+      "overloading",
+      "overriding",
+      "constructors",
+      "dynamic polymorphism"
+    ]
+  }
+]

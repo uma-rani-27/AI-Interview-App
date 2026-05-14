@@ -1,0 +1,41 @@
+[
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "easy",
+    "question": "What is a class in Python?",
+    "ideal_answer": "A class is a blueprint for creating objects.",
+    "keywords": [
+      "class",
+      "blueprint",
+      "objects"
+    ]
+  },
+
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "medium",
+    "question": "What is inheritance in Python?",
+    "ideal_answer": "Inheritance allows child classes to inherit properties from parent classes.",
+    "keywords": [
+      "inheritance",
+      "parent",
+      "child",
+      "reusability"
+    ]
+  },
+
+  {
+    "domain": "python",
+    "subtopic": "oops",
+    "difficulty": "hard",
+    "question": "Explain polymorphism in Python.",
+    "ideal_answer": "Polymorphism allows one method to perform different behaviors.",
+    "keywords": [
+      "polymorphism",
+      "methods",
+      "overriding"
+    ]
+  }
+]
